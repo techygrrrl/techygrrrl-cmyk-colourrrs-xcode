@@ -9,7 +9,7 @@
 	<key>DVTConsoleDebuggerOutputTextColor</key>
 	<string>0.972549 0.972549 0.94902 1</string>
 	<key>DVTConsoleDebuggerOutputTextFont</key>
-	<string>ComicShanns-Regular - 18.0</string>
+	<string>ComicMono - 18.0</string>
 	<key>DVTConsoleDebuggerPromptTextColor</key>
 	<string>0.313725 0.980392 0.482353 1</string>
 	<key>DVTConsoleDebuggerPromptTextFont</key>
@@ -17,11 +17,11 @@
 	<key>DVTConsoleExectuableInputTextColor</key>
 	<string>0.972549 0.972549 0.94902 1</string>
 	<key>DVTConsoleExectuableInputTextFont</key>
-	<string>ComicShanns-Regular - 18.0</string>
+	<string>ComicMono - 18.0</string>
 	<key>DVTConsoleExectuableOutputTextColor</key>
 	<string>0.972549 0.972549 0.94902 1</string>
 	<key>DVTConsoleExectuableOutputTextFont</key>
-	<string>ComicShanns-Regular - 18.0</string>
+	<string>ComicMono - 18.0</string>
 	<key>DVTConsoleTextBackgroundColor</key>
 	<string>0.133333 0.105882 0.196078 1</string>
 	<key>DVTConsoleTextInsertionPointColor</key>

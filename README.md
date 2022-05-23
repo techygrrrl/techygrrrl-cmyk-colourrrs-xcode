@@ -15,3 +15,8 @@
 ## Screenshots
 
 ![](screenshots/xcode-swift-01.png)
+
+Fonts pictured (18 pt.):
+
+- Main editor font: [Mono Lisa (free version)](https://www.monolisa.dev/)
+- Debugging console font: [Comic Mono](https://dtinth.github.io/comic-mono-font/)
