@@ -28,8 +28,6 @@
 	<string>0.937255 0.0823529 0.74902 1</string>
 	<key>DVTConsoleTextSelectionColor</key>
 	<string>0.266667 0.278431 0.352941 1</string>
-	<key>DVTDebuggerInstructionPointerColor</key>
-	<string>0.709804 0.588235 0.972549 1</string>
 	<key>DVTFontAndColorVersion</key>
 	<integer>1</integer>
 	<key>DVTLineSpacing</key>
@@ -43,33 +41,33 @@
 	<key>DVTMarkupTextEmphasisColor</key>
 	<string>0.877929 0.872979 0.878041 1</string>
 	<key>DVTMarkupTextEmphasisFont</key>
-	<string>.SFNS-RegularItalic - 14.0</string>
+	<string>.SFNS-RegularItalic - 16.0</string>
 	<key>DVTMarkupTextInlineCodeColor</key>
 	<string>0.877929 0.872979 0.878041 0.7</string>
 	<key>DVTMarkupTextLinkColor</key>
 	<string>0.384314 0.447059 0.643137 1</string>
 	<key>DVTMarkupTextLinkFont</key>
-	<string>.SFNS-Regular - 14.0</string>
+	<string>.SFNS-Regular - 16.0</string>
 	<key>DVTMarkupTextNormalColor</key>
 	<string>0.877929 0.872979 0.878041 1</string>
 	<key>DVTMarkupTextNormalFont</key>
-	<string>.SFNS-Regular - 14.0</string>
+	<string>.SFNS-Regular - 16.0</string>
 	<key>DVTMarkupTextOtherHeadingColor</key>
 	<string>0.877929 0.872979 0.878041 0.5</string>
 	<key>DVTMarkupTextOtherHeadingFont</key>
-	<string>.SFNS-Regular - 19.6</string>
+	<string>.SFNS-Regular - 22.4</string>
 	<key>DVTMarkupTextPrimaryHeadingColor</key>
 	<string>0.877929 0.872979 0.878041 1</string>
 	<key>DVTMarkupTextPrimaryHeadingFont</key>
-	<string>.SFNS-Regular - 33.6</string>
+	<string>.SFNS-Regular - 38.4</string>
 	<key>DVTMarkupTextSecondaryHeadingColor</key>
 	<string>0.877929 0.872979 0.878041 1</string>
 	<key>DVTMarkupTextSecondaryHeadingFont</key>
-	<string>.SFNS-Regular - 25.2</string>
+	<string>.SFNS-Regular - 28.8</string>
 	<key>DVTMarkupTextStrongColor</key>
 	<string>0.877929 0.872979 0.878041 1</string>
 	<key>DVTMarkupTextStrongFont</key>
-	<string>.SFNS-Bold - 14.0</string>
+	<string>.SFNS-Bold - 16.0</string>
 	<key>DVTScrollbarMarkerAnalyzerColor</key>
 	<string>0.403922 0.372549 1 1</string>
 	<key>DVTScrollbarMarkerBreakpointColor</key>
@@ -123,7 +121,7 @@
 		<key>xcode.syntax.identifier.function</key>
 		<string>0.0823529 0.937255 0.682353 1</string>
 		<key>xcode.syntax.identifier.function.system</key>
-		<string>0.937255 0.596078 0.0823529 1</string>
+		<string>0.0761689 0.937007 0.683209 1</string>
 		<key>xcode.syntax.identifier.macro</key>
 		<string>0.921569 0.937255 0.0823529 1</string>
 		<key>xcode.syntax.identifier.macro.system</key>

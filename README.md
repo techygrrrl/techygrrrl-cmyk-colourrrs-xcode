@@ -20,3 +20,14 @@ Fonts pictured (18 pt.):
 
 - Main editor font: [Mono Lisa (free version)](https://www.monolisa.dev/)
 - Debugging console font: [Comic Mono](https://dtinth.github.io/comic-mono-font/)
+
+
+## Contributing
+
+Themes are are `~/Library/Developer/Xcode/UserData/FontAndColorThemes`
+
+Pick colours and move them to the project:
+
+```sh
+cp  ~/Library/Developer/Xcode/UserData/FontAndColorThemes/CMYK\ by\ techygrrrl.xccolortheme CMYK\ by\ techygrrrl.xccolortheme
+```
